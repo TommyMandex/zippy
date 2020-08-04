@@ -19,7 +19,7 @@ $ zippy.sh --help
 simply shows the usage help and Zippy version
 
 # Notes
-Zippy comes from my personal need to get a quick way to process phishing kits gathered through [miteru](https://github.com/ninoseki/miteru)
+Zippy comes from my personal need to get a quick way to process phishing kits gathered through [miteru](https://github.com/ninoseki/miteru) and similar scripts.
 
 # Todo
 Enable search for interesting indicators of phishing kit (PHP files, exfiltration methods, logs writing, ...)
