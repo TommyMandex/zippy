@@ -9,7 +9,7 @@ $ zippy.sh -f badass_phishing_kit.zip [-r]
 ```
 $ zippy.sh -d DIRECTORY_FULL_OF_ZIPS [-r]
 ```
--d or --dir process all the zip files in the directory
+-d or --dir to process all the zip files in the directory
 
 OPTION -r (or --remove) removes file with .zip extension if it's not a zip (careful, won't ask confirmation!)
 
